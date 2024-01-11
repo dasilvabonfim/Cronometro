@@ -1,6 +1,6 @@
-# Temporizador em JavaScript, HTML e CSS
+# Cronômetro em JavaScript, HTML e CSS
 
-Olá! Este é um dos projetos que aprendi a partir do curso de javascript que estou fazendo, um temporizador que desenvolvi usando JavaScript, HTML e CSS.
+Este é um dos projetos que aprendi a partir do curso de javascript que estou fazendo, um cronômetro que desenvolvi usando JavaScript, HTML e CSS.
 
 ## Sobre o Projeto
 
@@ -16,7 +16,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Como Usar
 
-Para usar o temporizador, siga estas etapas:
+Para usar o cronômetro, siga estas etapas:
 
 1. Inicie o relógio clicando no botão 'Iniciar'.
 2. Você pode parar o relógio a qualquer momento clicando no botão 'Parar'.
